@@ -5,3 +5,5 @@ NPM     : 2206082234
 Kelas   : PBP A
 
 Jurusan	: Sistem Informasi
+
+Jurusan	: Ilmu Sistem Informasi Komputer
